@@ -1,2 +1,2 @@
-name = "Van yeoj"
-print("Hello, "+name+"!")
+name=input("name= ")
+print("name: ", name)
